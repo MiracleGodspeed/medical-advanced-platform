@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35e1a46d.css",
+    "main.js": "/static/js/main.437ed4ae.js",
+    "static/js/488.acbf6ecf.chunk.js": "/static/js/488.acbf6ecf.chunk.js",
+    "static/media/bottom-av.png": "/static/media/bottom-av.72ad62ea19eae3388dd4.png",
+    "static/media/Satoshi-MediumItalic.woff": "/static/media/Satoshi-MediumItalic.a9d334a32434202337e0.woff",
+    "static/media/Satoshi-Italic.woff": "/static/media/Satoshi-Italic.750bdfd1ce8b76732961.woff",
+    "static/media/Satoshi-BoldItalic.woff": "/static/media/Satoshi-BoldItalic.7a52bc8bae72721d73d1.woff",
+    "static/media/Leading-media.png": "/static/media/Leading-media.5a9b80bdb5792bbbe28b.png",
+    "static/media/Satoshi-Medium.woff": "/static/media/Satoshi-Medium.a64cc03e3e891778e916.woff",
+    "static/media/Satoshi-Regular.woff": "/static/media/Satoshi-Regular.0e8a348647aad1a457de.woff",
+    "static/media/Satoshi-Bold.woff": "/static/media/Satoshi-Bold.f9072dbfed23ea363ac7.woff",
+    "static/media/Satoshi-BlackItalic.woff": "/static/media/Satoshi-BlackItalic.73916aa9d96328249d1b.woff",
+    "static/media/Satoshi-LightItalic.woff": "/static/media/Satoshi-LightItalic.7f763213ef256730ed12.woff",
+    "static/media/Satoshi-Black.woff": "/static/media/Satoshi-Black.cc599e39028ed09e0808.woff",
+    "static/media/Satoshi-Light.woff": "/static/media/Satoshi-Light.b87e3b3451a6ca29f6d1.woff",
+    "static/media/demo-av.png": "/static/media/demo-av.c62011992d2b7b99c0ea.png",
+    "index.html": "/index.html",
+    "main.35e1a46d.css.map": "/static/css/main.35e1a46d.css.map",
+    "main.437ed4ae.js.map": "/static/js/main.437ed4ae.js.map",
+    "488.acbf6ecf.chunk.js.map": "/static/js/488.acbf6ecf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35e1a46d.css",
+    "static/js/main.437ed4ae.js"
+  ]
+}

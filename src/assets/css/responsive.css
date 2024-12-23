@@ -1,0 +1,15 @@
+/* Mobile responsiveness */
+
+
+@media (max-width: 768px) {
+    .centered-card {
+        max-width: 90%;
+        padding: 20px;
+    }
+
+    .ant-layout-sider {
+        min-width: 80px !important;
+        z-index: 999!important;
+    }
+       
+}

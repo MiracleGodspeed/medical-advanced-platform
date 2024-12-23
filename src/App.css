@@ -1,0 +1,148 @@
+/* span, */
+/* p, */
+a,
+/* div, */
+label,
+input {
+  font-family: 'Satoshi Regular', sans-serif !important;
+}
+
+.satochi-bold {
+  font-family: 'Satoshi Bold', sans-serif !important;
+}
+
+.satochi-regular {
+  font-family: 'Satoshi Regular', sans-serif !important;
+}
+.ant-table-cell {
+  font-family: 'Satoshi Regular', sans-serif !important;
+    color: #344054 !important;
+      font-size: 12px !important;
+}
+.satochi-medium, .ant-btn {
+  font-family: 'Satoshi Medium', sans-serif !important;
+}
+
+.satoshi-400 {
+  font-family: 'Satoshi Light';
+  font-weight: '400' !important;
+}
+
+.satoshi-500 {
+  font-family: 'Satoshi', sans-serif !important;
+  font-weight: '500' !important;
+}
+
+.satoshi-600 {
+  font-family: 'Satoshi', sans-serif !important;
+  font-weight: '600' !important;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.ant-layout-sider {
+  min-width: 272px !important;
+  background-color: #f9fbfd !important;
+}
+
+.ant-menu-title-content {
+  font-size: 14px !important;
+  font-family: 'Satoshi Regular', sans-serif !important;
+  color: #344054;
+}
+
+.ant-menu-item {
+  height: 44px !important;
+}
+.ant-input-outlined{
+  border: 1px solid #E4E7EC;
+}
+.ant-layout-sider-children{
+  background-color: #F7F9FC!important;
+}
+.ant-layout{
+  background-color: #fff;
+}
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  /* background-color: #d4d4d447; */
+  z-index: 99999;
+  overflow: hidden !important;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  background: #d4d4d447;
+  backdrop-filter: blur(7px);
+}
+
+#status {
+  margin-top: -10vh;
+}
+.ant-select-selector{
+  background: #F0F2F5!important;
+}
+.clear-input .ant-select-selector {
+  background: #fff !important;
+}
+.ant-select-selection-placeholder{
+  font-size: 13px!important;
+}
+.ant-input-group-addon{
+  background-color: transparent!important;
+}
+#b-right .ant-input-outlined{
+  border-right: 0px;
+}
+#b-right .ant-input{
+height: 38px;
+}
+#b-right .ant-input:focus {
+  border: none!important;
+}
+.ant-upload-drag{
+background: #fff!important;
+}
+.Toastify__progress-bar--success {
+  background: #04802E!important;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
